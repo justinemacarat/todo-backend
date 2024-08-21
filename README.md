@@ -1,1 +1,1 @@
-# todo-backend
+clone and run python app.py
