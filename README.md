@@ -5,7 +5,7 @@
 git clone https://github.com/justinemacarat/todo-backend.git
 ```
 ```
-python app.py
+cd todo-backend
 ```
 ## Start the Flask Server
 ```
